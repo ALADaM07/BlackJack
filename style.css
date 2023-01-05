@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding-top: 75px;
+   text-align: center;
+   background-image: url(table.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+p {
+    color: rgb(127, 184, 15);
+}
+
+#error {
+    color: red;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-size: 30px;
+    font-style: italic;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+#cards-el {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.sum-el {
+    color: sandybrown;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+
+#start, #New {
+    background-color: goldenrod;
+    color: #016f32;
+    width: 150px;
+    font-weight: bolder;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-bottom:10px;
+}
+
+#player-el {
+    color: white;
+    font-size: 20px;
+}
